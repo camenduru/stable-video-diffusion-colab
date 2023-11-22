@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-video-diffusion-colab/blob/main/stable_video_diffusion_colab.ipynb) | stable_video_diffusion_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-video-diffusion-colab/blob/main/stable_video_diffusion_colab.ipynb) | stable_video_diffusion_colab (Pro Colab A100 😭)
 
 ## Main Repo
 https://github.com/Stability-AI/generative-models
