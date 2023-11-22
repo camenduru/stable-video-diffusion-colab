@@ -14,6 +14,8 @@
 
 ## Tutorial
 If you get an `UnidentifiedImageError`, please run the example first or use `1024x576` `JPG` or `PNG` images.
+![F_jGdvBWUAEawIc](https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/7da65bb0-52ce-4a0f-91ae-83c8a0f79a77)
+
 
 ## Main Repo
 https://github.com/Stability-AI/generative-models <br />
