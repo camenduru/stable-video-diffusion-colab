@@ -26,4 +26,5 @@ tqdm>=4.65.0
 transformers==4.19.1
 triton==2.0.0
 xformers>=0.0.20
+urllib3<1.27,>=1.25.4
 gradio==4.5.0
