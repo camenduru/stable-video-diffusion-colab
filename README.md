@@ -27,3 +27,5 @@ https://huggingface.co/stabilityai/stable-video-diffusion-img2vid <br />
 https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt <br />
 
 ## Output
+
+https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/a0c48028-dbbc-48fa-801b-f950ca068fca
