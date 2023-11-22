@@ -13,6 +13,9 @@
 
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-video-diffusion-colab/blob/main/stable_video_diffusion_fp32_colab.ipynb) | stable_video_diffusion_fp32_colab 🚦 WIP 🚦 (Pro Colab A100 😭) -->
 
+## Tutorial
+If you get an `UnidentifiedImageError`, please use `1024x576` `JPG` or `PNG` images.
+
 ## Main Repo
 https://github.com/Stability-AI/generative-models <br />
 https://huggingface.co/spaces/multimodalart/stable-video-diffusion/blob/main/app.py <br />
