@@ -10,11 +10,10 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-video-diffusion-colab/blob/main/stable_video_diffusion_fp16_colab.ipynb) | stable_video_diffusion_fp16_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkshing/notebooks/blob/main/stable_video_diffusion_img2vid.ipynb) | stable_video_diffusion_img2vid.ipynb (Thanks to [@mkshing](https://twitter.com/mk1stats) ❤)
-
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-video-diffusion-colab/blob/main/stable_video_diffusion_fp32_colab.ipynb) | stable_video_diffusion_fp32_colab 🚦 WIP 🚦 (Pro Colab A100 😭) -->
 
 ## Tutorial
-If you get an `UnidentifiedImageError`, please use `1024x576` `JPG` or `PNG` images.
+If you get an `UnidentifiedImageError`, please run the example first or use `1024x576` `JPG` or `PNG` images.
 
 ## Main Repo
 https://github.com/Stability-AI/generative-models <br />
