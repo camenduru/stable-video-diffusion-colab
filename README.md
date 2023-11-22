@@ -40,3 +40,5 @@ https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/3a3591
 https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/f93ed645-349b-4ee9-99db-9d51426b2eed
 
 https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/44f4ef22-3e9d-4b1f-9683-13306ffd0989
+
+https://github.com/camenduru/stable-video-diffusion-colab/assets/54370274/68c800e4-4dd6-4637-9c4a-adbaae26fcf5
