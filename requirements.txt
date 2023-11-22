@@ -26,3 +26,4 @@ tqdm>=4.65.0
 transformers==4.19.1
 triton==2.0.0
 xformers>=0.0.20
+gradio==4.5.0
