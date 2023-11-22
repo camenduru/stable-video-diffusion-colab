@@ -19,4 +19,8 @@ https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d
 ## Page
 https://stability.ai/news/stable-video-diffusion-open-ai-video-model
 
+## Model
+https://huggingface.co/stabilityai/stable-video-diffusion-img2vid <br />
+https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt <br />
+
 ## Output
