@@ -22,7 +22,8 @@ https://github.com/Stability-AI/generative-models <br />
 https://huggingface.co/spaces/multimodalart/stable-video-diffusion/blob/main/app.py <br />
 
 ## Paper
-https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf
+https://arxiv.org/abs/2311.15127 <br />
+https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf <br />
 
 ## Page
 https://stability.ai/news/stable-video-diffusion-open-ai-video-model
